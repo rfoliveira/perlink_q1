@@ -1,0 +1,8 @@
+C:\repo\perlink_q1\NumerosFelizesESortudos.Lib\bin\Release\netstandard2.0\NumerosFelizesESortudos.Lib.deps.json
+C:\repo\perlink_q1\NumerosFelizesESortudos.Lib\bin\Release\netstandard2.0\NumerosFelizesESortudos.Lib.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Lib\bin\Release\netstandard2.0\NumerosFelizesESortudos.Lib.pdb
+C:\repo\perlink_q1\NumerosFelizesESortudos.Lib\obj\Release\netstandard2.0\NumerosFelizesESortudos.Lib.csproj.CoreCompileInputs.cache
+C:\repo\perlink_q1\NumerosFelizesESortudos.Lib\obj\Release\netstandard2.0\NumerosFelizesESortudos.Lib.AssemblyInfoInputs.cache
+C:\repo\perlink_q1\NumerosFelizesESortudos.Lib\obj\Release\netstandard2.0\NumerosFelizesESortudos.Lib.AssemblyInfo.cs
+C:\repo\perlink_q1\NumerosFelizesESortudos.Lib\obj\Release\netstandard2.0\NumerosFelizesESortudos.Lib.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Lib\obj\Release\netstandard2.0\NumerosFelizesESortudos.Lib.pdb

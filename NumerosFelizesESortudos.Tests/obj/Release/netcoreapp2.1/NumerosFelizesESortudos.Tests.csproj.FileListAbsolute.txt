@@ -1,0 +1,17 @@
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.deps.json
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.runtimeconfig.json
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.runtimeconfig.dev.json
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.pdb
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\NumerosFelizesESortudos.Lib.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\bin\Release\netcoreapp2.1\NumerosFelizesESortudos.Lib.pdb
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\obj\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.csprojAssemblyReference.cache
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\obj\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.csproj.CoreCompileInputs.cache
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\obj\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.AssemblyInfoInputs.cache
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\obj\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.AssemblyInfo.cs
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\obj\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.csproj.CopyComplete
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\obj\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Tests\obj\Release\netcoreapp2.1\NumerosFelizesESortudos.Tests.pdb
