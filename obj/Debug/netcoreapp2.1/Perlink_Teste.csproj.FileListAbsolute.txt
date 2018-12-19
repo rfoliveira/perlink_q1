@@ -1,0 +1,11 @@
+C:\Users\rafae\Documents\Perlink_Teste\bin\Debug\netcoreapp2.1\Perlink_Teste.deps.json
+C:\Users\rafae\Documents\Perlink_Teste\bin\Debug\netcoreapp2.1\Perlink_Teste.runtimeconfig.json
+C:\Users\rafae\Documents\Perlink_Teste\bin\Debug\netcoreapp2.1\Perlink_Teste.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Perlink_Teste\bin\Debug\netcoreapp2.1\Perlink_Teste.dll
+C:\Users\rafae\Documents\Perlink_Teste\bin\Debug\netcoreapp2.1\Perlink_Teste.pdb
+C:\Users\rafae\Documents\Perlink_Teste\obj\Debug\netcoreapp2.1\Perlink_Teste.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Perlink_Teste\obj\Debug\netcoreapp2.1\Perlink_Teste.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Perlink_Teste\obj\Debug\netcoreapp2.1\Perlink_Teste.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Perlink_Teste\obj\Debug\netcoreapp2.1\Perlink_Teste.AssemblyInfo.cs
+C:\Users\rafae\Documents\Perlink_Teste\obj\Debug\netcoreapp2.1\Perlink_Teste.dll
+C:\Users\rafae\Documents\Perlink_Teste\obj\Debug\netcoreapp2.1\Perlink_Teste.pdb
