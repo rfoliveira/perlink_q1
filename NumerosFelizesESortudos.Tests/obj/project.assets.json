@@ -5789,11 +5789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\Documents\\Perlink_q1\\NumerosFelizesESortudos.Tests\\NumerosFelizesESortudos.Tests.csproj",
+      "projectUniqueName": "C:\\repo\\perlink_q1\\NumerosFelizesESortudos.Tests\\NumerosFelizesESortudos.Tests.csproj",
       "projectName": "NumerosFelizesESortudos.Tests",
-      "projectPath": "C:\\Users\\rafae\\Documents\\Perlink_q1\\NumerosFelizesESortudos.Tests\\NumerosFelizesESortudos.Tests.csproj",
+      "projectPath": "C:\\repo\\perlink_q1\\NumerosFelizesESortudos.Tests\\NumerosFelizesESortudos.Tests.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\Documents\\Perlink_q1\\NumerosFelizesESortudos.Tests\\obj\\",
+      "outputPath": "C:\\repo\\perlink_q1\\NumerosFelizesESortudos.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5813,8 +5813,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\rafae\\Documents\\Perlink_q1\\NumerosFelizesESortudos.Lib\\NumerosFelizesESortudos.Lib.csproj": {
-              "projectPath": "C:\\Users\\rafae\\Documents\\Perlink_q1\\NumerosFelizesESortudos.Lib\\NumerosFelizesESortudos.Lib.csproj"
+            "C:\\repo\\perlink_q1\\NumerosFelizesESortudos.Lib\\NumerosFelizesESortudos.Lib.csproj": {
+              "projectPath": "C:\\repo\\perlink_q1\\NumerosFelizesESortudos.Lib\\NumerosFelizesESortudos.Lib.csproj"
             }
           }
         }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosFelizesESortudos.Lib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosFelizesESortudos.Main", "NumerosFelizesESortudos.Main\NumerosFelizesESortudos.Main.csproj", "{69C13926-522C-4A8A-BD55-18F23FEDA12A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosFelizesESortudos.Tests", "NumerosFelizesESortudos.Tests\NumerosFelizesESortudos.Tests.csproj", "{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{69C13926-522C-4A8A-BD55-18F23FEDA12A}.Release|x64.Build.0 = Release|Any CPU
 		{69C13926-522C-4A8A-BD55-18F23FEDA12A}.Release|x86.ActiveCfg = Release|Any CPU
 		{69C13926-522C-4A8A-BD55-18F23FEDA12A}.Release|x86.Build.0 = Release|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Debug|x64.Build.0 = Debug|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Release|x64.Build.0 = Release|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF5F0F4B-AA8C-4009-A161-B559CAF9EDD7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
