@@ -1,0 +1,14 @@
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\bin\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.deps.json
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\bin\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.runtimeconfig.json
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\bin\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.runtimeconfig.dev.json
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\bin\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\bin\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.pdb
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\bin\Debug\netcoreapp2.1\NumerosFelizesESortudos.Lib.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\bin\Debug\netcoreapp2.1\NumerosFelizesESortudos.Lib.pdb
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\obj\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.csprojAssemblyReference.cache
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\obj\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.csproj.CoreCompileInputs.cache
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\obj\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.AssemblyInfoInputs.cache
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\obj\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.AssemblyInfo.cs
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\obj\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.csproj.CopyComplete
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\obj\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.dll
+C:\repo\perlink_q1\NumerosFelizesESortudos.Main\obj\Debug\netcoreapp2.1\NumerosFelizesESortudos.Main.pdb
